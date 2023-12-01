@@ -23,3 +23,8 @@
 5. When health = 0, the game is over.
 6. Press R to restart the game.
 
+<img width="1280" alt="image" src="https://github.com/pikaxki/hfc_infoday/assets/110244787/c105ab12-0320-467c-987f-9bc052815062">
+<img width="1278" alt="image" src="https://github.com/pikaxki/hfc_infoday/assets/110244787/4fd54d2c-c512-4c33-af12-5c85886a4e03">
+<img width="887" alt="image" src="https://github.com/pikaxki/hfc_infoday/assets/110244787/7e337e73-faa0-4a80-bce8-8bc5bac1a4bd">
+
+
